@@ -3,12 +3,13 @@
 
 2. This cypher is not a Caesar Cypher (duh)
 
-3. Note: It is a symmetric encryption algorithm. I had issues setting up PGP, which is why I switched to this.
 
-4. You have two files, Hint1 and Hint2. Suppose you get a string/number "ABC" from hint1 and a string/variable "DEF"
+3. You have two files, Hint1 and Hint2. Suppose you get a string/number "ABC" from hint1 and a string/variable "DEF"
 from hint2, the final main hint is "ABCDEF" which can be used to decode the file "asli real letter.txt"
 
-5. Main rules will be mentioned in chat, please follow them exactly.
+4. You may google what ABCDEF means. (same for anything you don't understand, but NO AI)
+
+
 
 
 
