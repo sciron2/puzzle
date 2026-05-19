@@ -3,13 +3,14 @@
 
 2. This cypher is not a Caesar Cypher (duh)
 
-3. Decode the file by finding which encryption algorithm has been used to encrypt it.
+3. Note: It is a symmetric encryption algorithm. I had issues setting up PGP, which is why I switched to this.
 
-4. Note: It is a symmetric encryption algorithm. I had issues setting up PGP, which is why I switched to this.
+4. You have two files, Hint1 and Hint2. Suppose you get a string/number "ABC" from hint1 and a string/variable "DEF"
+from hint2, the final main hint is "ABCDEF" which can be used to decode the file "asli real letter.txt"
 
-5. Find Hints throughout this GitHub profile.
+5. Main rules will be mentioned in chat, please follow them exactly.
 
-6. Combine the hints together to get the encryption algorithm name. And no, you can't skip the math problem.
+
 
 GOOD LUCK
 ***********************************************************************************************************************************************************
